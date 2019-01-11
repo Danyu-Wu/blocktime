@@ -2,11 +2,11 @@
 layout: workgroup
 permalink: /workgroups/wg-blocktime
 group: workgroup
-title: workgroups.workgroups.wg-blocksize.title
-workgroup: wg-blocksize
+title: workgroups.workgroups.wg-blocktime.title
+workgroup: wg-blocktime
 ---
 
-This meeting exists to discuss all topics regarding expanding the block size.
+This meeting exists to discuss all topics regarding reducing the block time.
 
 # Communication
 
@@ -22,4 +22,4 @@ This meeting exists to discuss all topics regarding expanding the block size.
 
 - Danny Wu, @Danyu-Wu
 
-{% include sub-list.html group='blocksize' %}
+{% include sub-list.html group='blocktime' %}
